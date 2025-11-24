@@ -50,7 +50,7 @@ function App() {
               <p>A Python project that converts motion into sound using OpenCV.</p>
             </div>
             <div className="project-card">
-              <h3>Job Tracking chrome extension</h3>
+              <h3>Job-Tracking chrome extension</h3>
               <p>A chrome extension to track jobs that you have applied for.</p>
             </div>
           </div>
