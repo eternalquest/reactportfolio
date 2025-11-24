@@ -7,8 +7,9 @@ function App() {
       {/* Header / Hero */}
       <header className="hero">
         <div className="hero-content">
-          <h1>Hi, I'm Nitish</h1>
+          <h1>Hi, I'm Nitish.</h1>
           <p>Building modern web apps and creating impactful software solutions.</p>
+          <p>To change how world watches you online.</p>
           <a href="#projects" className="btn">See My Work</a>
         </div>
       </header>
